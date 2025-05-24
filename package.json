@@ -9,7 +9,7 @@
   "license": "ISC",
   "description": "",
   "engines": {
-    "node": "^23.3.0"
+    "node": "^23.3.0 || ^24.0.0"
   },
   "dependencies": {
     "express": "^4.14.0",
